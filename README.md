@@ -1,2 +1,2 @@
 # Sistema-Notas
-Sistema simples para calcular notas de alunos em Python
+O Sistema permite calcular médias e indicar aprovação ou reprovação em Pyhton.
